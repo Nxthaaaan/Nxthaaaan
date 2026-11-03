@@ -14,17 +14,21 @@
 ### 🧑‍💻 À propos de moi
 
 - 🇫🇷 Développeur français, passionné par le **gaming** et tout ce qui tourne autour
-- J'aime monter et configurer des **serveurs de jeu** (FiveM, Minecraft, Valheim…)
-- Je traduis des jeux en français pour la communauté
-- J'apprends en permanence : web, scripting, outils & automatisation
-- Une idée, un projet ? N'hésite pas à me contacter !
+- 🎮 J'aime monter et configurer des **serveurs de jeu** (FiveM, Minecraft, Valheim…)
+- 🌍 Je traduis des jeux en français pour la communauté
+- 🌱 J'apprends en permanence : web, scripting, outils & automatisation
+- 💬 Une idée, un projet ? N'hésite pas à me contacter !
 
 ---
 
 ### 🛠️ Technologies & outils
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,sql,html,css,python,cs,rust,lua&perline=9" alt="Langages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,cs,rust,lua&perline=9" alt="Langages" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&perline=9" alt="Back-end & BDD" />
+  <a href="https://ejs.co"><img height="48" src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS" /></a>
 </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=unity,dotnet,git,github,vscode,windows,linux,docker&perline=9" alt="Outils" />
@@ -36,7 +40,6 @@
 
 | Projet | Description |
 |---|---|
-| WIP |
 
 ---
 
