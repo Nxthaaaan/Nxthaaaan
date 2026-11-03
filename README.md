@@ -43,8 +43,8 @@
 ### 📊 Statistiques GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nxthaaaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nxthaaaan&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nxthaaaan&theme=tokyonight" alt="Stats GitHub" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nxthaaaan&theme=tokyonight" alt="Langages les plus utilisés" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=Nxthaaaan&theme=tokyonight&hide_border=true&locale=fr" alt="Série de contributions" />
 </div>
